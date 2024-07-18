@@ -1,0 +1,17 @@
+*{
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
+
+.box{
+    background-color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.header{
+    background-color: yellow;
+    font-weight: bold;
+    padding: 20px;
+}
